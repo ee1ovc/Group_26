@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod ugo+x Homework.sh
 
 echo "Hello, my name is Ivan and this is my Homework"
 echo "Let's get started"
